@@ -1,0 +1,102 @@
+.home-bg {
+    background-image: url(../../images/Image/Rectangle1.png);
+    min-height: 100vh;
+    background-size: cover;
+}
+
+.card-overlay {
+    background: rgba(0, 0, 0, 0.7);
+    min-height: 100vh;
+}
+
+.logo-bg {
+    width: 50%;
+    filter: brightness(999%)
+}
+
+.search-form .input-search {
+    background: transparent;
+    width: 15rem;
+}
+
+.login-btn {
+    max-width: 15rem;
+    font-weight: bold;
+}
+
+.slider-right {
+    max-width: 100%
+}
+
+.slider-right img {
+    width: 12rem;
+    height: 20rem;
+    border-radius: 1px;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 20px;
+}
+
+.slider-right .active {
+    border: 1px solid goldenrod;
+}
+
+.form-area {
+    background-color: white;
+    padding: 2rem;
+    border-radius: .5rem;
+    color: black;
+    max-height: 400px;
+}
+
+.form-area input {
+    background-color: #F2F2F2;
+}
+
+.login-form {
+    margin: 0 auto;
+    width: 60%;
+    border: 1px solid lightgray;
+    padding: 2rem;
+    border-radius: .5rem;
+}
+
+.login-form input {
+    border: none;
+    border-bottom: 1px solid gray;
+}
+
+.login-form h3 {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.signin-btn {
+    text-align: center;
+}
+
+.signin-btn button {
+    margin-top: 1rem;
+    border-radius: 5rem;
+    width: 50%;
+    color: black;
+}
+
+.hr-header {
+    margin-top: -3rem;
+}
+
+.reset-password-btn {
+    border: none;
+    background: none;
+    color: goldenrod;
+}
+
+.header-links{
+    display: block;
+    padding: .5rem 1rem;
+    color: rgba(255,255,255,.5);
+    padding-right: .5rem;
+    padding-left: .5rem;
+}
